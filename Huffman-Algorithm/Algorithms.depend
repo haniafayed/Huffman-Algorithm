@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1610358741 source:/home/hana/Desktop/Algorithms/main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<string>
+	<string.h>
+	<vector>
+	<algorithm>
+	<functional>
+	<bits/stdc++.h>
+	<stack>
+	<map>
+	<math.h>
+	<chrono>
+	<iostream>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+
